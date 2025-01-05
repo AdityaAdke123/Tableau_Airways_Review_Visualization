@@ -1,12 +1,10 @@
 # Tableau_Airways_Review_Visualization
 
+# British Airways Review Visualization Project ✈️📊
 
 https://github.com/user-attachments/assets/94eb83ab-f071-4730-9fb6-04d163641685
 
-
 ![image](https://github.com/user-attachments/assets/db611ade-ee80-4a3d-952e-8e4e4f345b5c)
-
-# British Airways Review Visualization Project ✈️📊
 
 ## Overview
 This project showcases an **interactive Tableau dashboard** that analyzes British Airways customer reviews. The dashboard provides insights into key performance metrics such as **Cabin Staff Service**, **Entertainment**, **Food & Beverages**, **Seat Comfort**, and more. By leveraging data visualization, this project enables a deeper understanding of customer satisfaction trends and highlights areas for improvement.
